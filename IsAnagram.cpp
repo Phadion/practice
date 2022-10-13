@@ -4,6 +4,7 @@
 
 using namespace std;
 
+//probably can use map as well
 bool isAnagram(string s,string t)
 {
  string s1(s);
