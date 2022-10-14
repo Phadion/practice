@@ -1,0 +1,6 @@
+unordered_set<int> s;
+s.find(<some element>)!=s.end())
+ found element in set
+
+int i = <some char> -'a'
+ returns the position of the letter-1;
